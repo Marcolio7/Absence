@@ -1,7 +1,6 @@
 body {
     color: black;
     background-color: teal;
-
 }
 h1 {
     text-align: center;
@@ -66,4 +65,12 @@ header li {
 .topnav {
   overflow: hidden;
   background-color: lightblue;
+}
+.solution h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.solution p {
+    font-size: 30px;
+
 }
