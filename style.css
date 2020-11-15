@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 45px;
+    color: red;
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 50px;
+}
+.img-absence {
+    float: top;
+    margin-top: 10px;
+    margin-right: 75px;
+    width: 500px;
+    height: 250px;
+}
