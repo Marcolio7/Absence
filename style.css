@@ -50,7 +50,7 @@ header ul {
 }
 header li {
     display: inline-block;
-    margin-right: 15vw;
+    margin-right: 8vw;
     margin-left: 5vw;
 }
 .topnav a:hover {
