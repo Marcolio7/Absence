@@ -94,6 +94,7 @@ header li {
     justify-content: center;
     flex-wrap: wrap;
     margin: 0 auto;
+    padding-bottom: 200px;
 }
 .footer-heading {
     display: flex;
