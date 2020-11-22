@@ -25,15 +25,15 @@ p {
 }
 .img-absence {
     float: top;
-    margin-top: 6px;
-    margin-right: 75px;
+    margin-top: 35px;
+    margin-right: 300px;
     width: 500px;
     height: 250px;
 }
 .img-shcool {
     width: 500px;
     height: 250px;
-    margin-left: 75px;
+    margin-left: 300px;
 }
 .textbox2 p {
     text-align: center;
@@ -76,9 +76,10 @@ header li {
   background-color: lightblue;
 }
 .bilde1 {
-    height: 17em;
-    margin-left: 8em;
-    margin-top: 2em;
+    height: 500px;
+    width: 1000px;
+    text-align: center;
+    margin-left: 400px;
 }
 .footer-container {
     background-color: teal;
@@ -155,3 +156,7 @@ header li {
     height: 500px;
     width: 600px;
 }
+.textbox {
+    text-align: center;
+}
+.textbo
