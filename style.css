@@ -143,3 +143,15 @@ header li {
     background-color: #337AF1;
     transition: all 0.4s ease-out;
 }
+.solution h2 {
+    text-align: center;
+    font-size: 30px;
+}
+.img-scanner {
+    height: 500px;
+    width: 500px;
+}
+.img-attendance {
+    height: 500px;
+    width: 600px;
+}
