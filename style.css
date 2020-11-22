@@ -95,6 +95,7 @@ header li {
     justify-content: center;
     flex-wrap: wrap;
     margin: 0 auto;
+    padding-bottom: 200px;
 }
 .footer-heading {
     display: flex;
@@ -156,7 +157,10 @@ header li {
     height: 500px;
     width: 600px;
 }
+<<<<<<< HEAD
 .textbox {
     text-align: center;
 }
 .textbo
+=======
+>>>>>>> b33ab8a93870850f1f84f2bd9edca519437b30ea
